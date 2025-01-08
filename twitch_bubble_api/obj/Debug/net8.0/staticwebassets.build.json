@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "op4Owu6R3RdOKBjgSlWGuxtfkKQ3oAVekLbbNoY9dJo=",
+  "Source": "twitch_bubble_api",
+  "BasePath": "_content/twitch_bubble_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

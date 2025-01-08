@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/twitch_bubble_api.props" />
+</Project>
